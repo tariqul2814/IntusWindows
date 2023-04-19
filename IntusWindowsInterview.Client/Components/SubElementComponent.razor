@@ -1,0 +1,62 @@
+﻿@using IntusWindowsInterview.Client.Models;
+
+<br />
+
+<a href="javascript:void(0)" class="btn-sm btn-danger" style="text-decoration: none;" @onclick="() =>
+                                AddSubElementEvent.InvokeAsync()">Add</a>
+
+@foreach (var item in SubElements)
+{
+    <div class="mb-4">
+        <div class="card">
+            <div class="card-header">
+                @*<span class="btn btn-sm btn-outline-danger float-end" @onclick="() => RemoveWindows(item)">X</span>*@
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-2">
+                        <label>Element</label>
+                        <InputNumber @bind-Value="@item.Element" class="form-control"></InputNumber>
+                        <ValidationMessage For="@(() => item.Element)" />
+                    </div>
+                    <div class="col-md-2">
+                        <label>Type</label>
+                        <InputText @bind-Value="@item.Type" class="form-control"></InputText>
+                        <ValidationMessage For="@(() => item.Type)" />
+                    </div>
+                    <div class="col-md-3">
+                        <label>Width</label>
+                        <InputNumber @bind-Value="@item.Width" class="form-control"></InputNumber>
+                        <ValidationMessage For="@(() => item.Width)" />
+                    </div>
+                    <div class="col-md-3">
+                        <label>Height</label>
+                        <InputNumber @bind-Value="@item.Height" class="form-control"></InputNumber>
+                        <ValidationMessage For="@(() => item.Height)" />
+                    </div>
+                    <div class="col-md-2">
+                        <a href="javascript:void(0)" class="btn-sm btn-danger" style="text-decoration: none;" @onclick="() =>
+                                DeleteSubElement(item)">Delete</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter]
+    public List<SubElementViewModel> SubElements { get; set; }
+
+    [Parameter]
+    public int WindowNumber { get; set; }
+
+    [Parameter] 
+    public EventCallback AddSubElementEvent { get; set; }
+
+    public void DeleteSubElement(SubElementViewModel element)
+    {
+        SubElements.Remove(element);
+        this.StateHasChanged();
+    }
+}

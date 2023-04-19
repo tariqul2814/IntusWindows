@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntusWindowsInterview", "IntusWindowsInterview\IntusWindowsInterview.csproj", "{FE359904-C887-436C-9606-B42A222DECA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntusWindowsInterview.Common", "IntusWindowsInterview.Common\IntusWindowsInterview.Common.csproj", "{BE628061-C3AC-4C5E-84EA-43E4C6B37EEC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntusWindowsInterview.Model", "IntusWindowsInterview.Model\IntusWindowsInterview.Model.csproj", "{A392F750-DB65-4EBD-A95E-8B1B095D40C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntusWindowsInterview.Repository", "IntusWindowsInterview.Repository\IntusWindowsInterview.Repository.csproj", "{03BAEC62-D8BB-4F18-9E21-4880815425E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntusWindowsInterview.Services", "IntusWindowsInterview.Services\IntusWindowsInterview.Services.csproj", "{6F045F5C-FB95-4769-81B4-3B50F8A1F81E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntusWindowsInterview.Client", "IntusWindowsInterview.Client\IntusWindowsInterview.Client.csproj", "{061FB5C2-520C-4BBF-A8BA-FE27957C8250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE359904-C887-436C-9606-B42A222DECA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE359904-C887-436C-9606-B42A222DECA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE359904-C887-436C-9606-B42A222DECA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE359904-C887-436C-9606-B42A222DECA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE628061-C3AC-4C5E-84EA-43E4C6B37EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE628061-C3AC-4C5E-84EA-43E4C6B37EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE628061-C3AC-4C5E-84EA-43E4C6B37EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE628061-C3AC-4C5E-84EA-43E4C6B37EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A392F750-DB65-4EBD-A95E-8B1B095D40C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A392F750-DB65-4EBD-A95E-8B1B095D40C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A392F750-DB65-4EBD-A95E-8B1B095D40C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A392F750-DB65-4EBD-A95E-8B1B095D40C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03BAEC62-D8BB-4F18-9E21-4880815425E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03BAEC62-D8BB-4F18-9E21-4880815425E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03BAEC62-D8BB-4F18-9E21-4880815425E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03BAEC62-D8BB-4F18-9E21-4880815425E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F045F5C-FB95-4769-81B4-3B50F8A1F81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F045F5C-FB95-4769-81B4-3B50F8A1F81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F045F5C-FB95-4769-81B4-3B50F8A1F81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F045F5C-FB95-4769-81B4-3B50F8A1F81E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{061FB5C2-520C-4BBF-A8BA-FE27957C8250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{061FB5C2-520C-4BBF-A8BA-FE27957C8250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{061FB5C2-520C-4BBF-A8BA-FE27957C8250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{061FB5C2-520C-4BBF-A8BA-FE27957C8250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D8EDD0F-5C4D-453F-98B5-D863C7A57360}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,123 @@
+﻿@page "/AddOrder"
+@page "/EditOrder/{Id:int}"
+
+@using IntusWindowsInterview.Client.Models;
+@using IntusWindowsInterview.Client.Services;
+@using IntusWindowsInterview.Client.Components;
+
+
+@inject IJSRuntime js
+
+<div class="card">
+    <div class="card-header">
+        @if (Id is not null)
+        {
+            <h3>Update Order</h3>
+        }
+        else
+        {
+            <h3>CreateOrder</h3>
+        }
+    </div>
+    <div class="card-body">
+        <EditForm EditContext="@editContext" OnValidSubmit="HandleValidSubmit">
+            <DataAnnotationsValidator />
+            <div class="row">
+                <div class="col-md-6">
+                    <label for="Name">Order Name</label>
+                    <InputText id="Name" @bind-Value="order.Name" class="form-control" />
+                    <ValidationMessage For="@(() => order.Name)" />
+                </div>
+                <div class="col-md-6">
+                    <label for="Name">Order State</label>
+                    <InputText id="State" @bind-Value="order.State" class="form-control" />
+                    <ValidationMessage For="@(() => order.State)" />
+                </div>
+                <div class="mt-3">
+                    <button type="button" class="btn btn-primary" onclick="@(() => AddWindow())">Add Window</button>
+                </div>
+                <WindowComponent Windows="order.WindowsViewModels"></WindowComponent>
+            </div>
+
+            <br>
+            <button type="submit" class="btn btn-primary" @onclick="@HandleValidSubmit">Save</button>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+
+    [Inject] IOrderEtl _orderHttpService { get; set; }
+
+    [Inject] NavigationManager NavigationManager { get; set; }
+
+    [Parameter]
+    public int? Id { get; set; } 
+
+    public OrderViewModel order = new OrderViewModel();
+
+    public EditContext editContext { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        editContext = new(order);
+        await GetOrderByID(Id);
+    }
+
+    public async Task HandleValidSubmit()
+    {
+        if (editContext.Validate())
+        {
+            await SaveOrUpdateOrder();
+            // Process the valid form
+            // await ...
+            //await Task.CompletedTask;
+        }
+    }
+
+    public async Task GetOrderByID(int? Id)
+    {
+        if(Id is not null)
+        {
+            order = null;
+
+            var response = await _orderHttpService.GetOrderById(Id.Value);
+
+            if (response.success)
+            {
+                order = response.payload;
+            }
+        }
+    }
+
+    public async Task SaveOrUpdateOrder()
+    {
+        if(Id is not null)
+        {
+            var response = await _orderHttpService.UpdateOrder(order);
+
+            if(response.success)
+                await js.InvokeVoidAsync("alert", "Successfully Saved!");
+            else
+                await js.InvokeVoidAsync("alert", response.message.FirstOrDefault());
+        }
+        else
+        {
+            var response = await _orderHttpService.CreateOrder(order);
+
+            if (response.success)
+                await js.InvokeVoidAsync("alert", "Successfully Saved!");
+            else
+                await js.InvokeVoidAsync("alert", response.message.FirstOrDefault());
+        }
+    }
+
+    public void AddWindow()
+    {
+        order.WindowsViewModels.Add(new WindowViewModel() { OrderId = order.Id, SubElementsViewModel = new List<SubElementViewModel>() { } });
+
+        Console.WriteLine(order.WindowsViewModels.Count());
+
+        this.StateHasChanged();
+    }
+}

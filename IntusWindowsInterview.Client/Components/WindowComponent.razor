@@ -1,0 +1,62 @@
+﻿@using IntusWindowsInterview.Client.Models;
+
+@foreach (var item in Windows)
+{
+    <h3>Window</h3>
+    item.TotalSubElements = item.SubElementsViewModel == null ? 0 : item.SubElementsViewModel.Count();
+    <div class="mb-4">
+        <div class="card">
+            <div class="card-header">
+                <a href="javascript:void(0)" class="btn-sm btn-danger" style="text-decoration: none;" @onclick="() =>
+                                RemoveWindow(item)">Remove</a>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Window Name</label>
+                        <InputText @bind-Value="@item.Name" class="form-control"></InputText>
+                        <ValidationMessage For="@(() => item.Name)" />
+                    </div>
+                    <div class="col-md-4">
+                        <label>Quantity</label>
+                        <InputNumber @bind-Value="@item.QuantityOfWindows" class="form-control"></InputNumber>
+                        <ValidationMessage For="@(() => item.QuantityOfWindows)" />
+                    </div>
+                    <div class="col-md-4">
+                        <label>Total SubElements</label>
+                        <InputNumber @bind-Value ="@item.TotalSubElements" disabled="true" class="form-control"></InputNumber>
+                        <ValidationMessage For="@(() => item.TotalSubElements)" />
+                    </div>
+                </div>
+                <SubElementComponent SubElements="@item.SubElementsViewModel" WindowNumber="Windows.IndexOf(item)" AddSubElementEvent="() => AddNewSubElement(Windows.IndexOf(item))"></SubElementComponent>
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter]
+    public List<WindowViewModel> Windows { get; set; }
+
+    protected void AddNewSubElement(int WindowsIndex)
+    {
+        var window = Windows[WindowsIndex];
+
+        window.TotalSubElements++;
+
+        if(window is not null)
+        {
+            window.SubElementsViewModel.Add(new SubElementViewModel());
+
+            this.StateHasChanged();
+        }
+        Console.WriteLine(window.SubElementsViewModel.Count());
+
+    }
+
+    public void RemoveWindow(WindowViewModel window)
+    {
+        Windows.Remove(window);
+        this.StateHasChanged();
+    }
+}

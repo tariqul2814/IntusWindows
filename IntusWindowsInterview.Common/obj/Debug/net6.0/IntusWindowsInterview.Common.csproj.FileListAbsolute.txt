@@ -1,0 +1,12 @@
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Common\bin\Debug\net6.0\IntusWindowsInterview.Common.deps.json
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Common\bin\Debug\net6.0\IntusWindowsInterview.Common.dll
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Common\bin\Debug\net6.0\IntusWindowsInterview.Common.pdb
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Common\obj\Debug\net6.0\IntusWindowsInterview.Common.csproj.AssemblyReference.cache
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Common\obj\Debug\net6.0\IntusWindowsInterview.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Common\obj\Debug\net6.0\IntusWindowsInterview.Common.AssemblyInfoInputs.cache
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Common\obj\Debug\net6.0\IntusWindowsInterview.Common.AssemblyInfo.cs
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Common\obj\Debug\net6.0\IntusWindowsInterview.Common.csproj.CoreCompileInputs.cache
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Common\obj\Debug\net6.0\IntusWindowsInterview.Common.dll
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Common\obj\Debug\net6.0\refint\IntusWindowsInterview.Common.dll
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Common\obj\Debug\net6.0\IntusWindowsInterview.Common.pdb
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Common\obj\Debug\net6.0\ref\IntusWindowsInterview.Common.dll

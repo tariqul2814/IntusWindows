@@ -1,0 +1,17 @@
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\bin\Debug\net6.0\IntusWindowsInterview.Model.deps.json
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\bin\Debug\net6.0\IntusWindowsInterview.Model.runtimeconfig.json
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\bin\Debug\net6.0\IntusWindowsInterview.Model.dll
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\bin\Debug\net6.0\IntusWindowsInterview.Model.pdb
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\bin\Debug\net6.0\IntusWindowsInterview.Common.dll
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\bin\Debug\net6.0\IntusWindowsInterview.Common.pdb
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.csproj.AssemblyReference.cache
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.AssemblyInfoInputs.cache
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.AssemblyInfo.cs
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.csproj.CoreCompileInputs.cache
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.csproj.CopyComplete
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.dll
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\obj\Debug\net6.0\refint\IntusWindowsInterview.Model.dll
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.pdb
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.genruntimeconfig.cache
+C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\obj\Debug\net6.0\ref\IntusWindowsInterview.Model.dll

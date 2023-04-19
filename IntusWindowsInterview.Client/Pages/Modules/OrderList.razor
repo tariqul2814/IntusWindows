@@ -1,0 +1,95 @@
+﻿@page "/orderList"
+@using Services;
+@using IntusWindowsInterview.Client.Models
+
+<h3>OrderList</h3>
+<div class="row">
+    <div class="col-md-6">
+        <a href="/AddOrder" class="btn-sm btn-secondary" style="text-decoration: none;">Add Order</a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        @if(orders != null)
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>State</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var order in orders)
+                    {
+                        <tr>
+                            <td>
+                                @order.Name
+                            </td>
+                            <td>
+                                @order.State
+                            </td>
+                            <td>
+                                <a href="/EditOrder/@order.Id" class="btn-sm btn-secondary" style="text-decoration: none;">Edit</a>
+                                <a href="javascript:void(0)" class="btn-sm btn-danger" style="text-decoration: none;" @onclick="() =>
+                                DeleteOrder(order.Id)">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</div>
+
+@code {
+
+    [Inject] IOrderEtl _orderHttpService { get; set; }
+    [Inject] IJSRuntime js { get; set; }
+    public List<OrderViewModel> orders { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        orders = new List<OrderViewModel>()
+        {
+            new OrderViewModel() {Id = 1, Name = "Tariqul", State = "Tariqul-State", WindowsViewModels = new List<WindowViewModel>() { new WindowViewModel() { Name = "Tariqul Alam", QuantityOfWindows = 4, TotalSubElements = 6 } } },
+            new OrderViewModel() {Id = 1, Name = "Sabab", State = "Sabab-State"},
+            new OrderViewModel() {Id = 1, Name = "Saiful", State = "Saiful-State"}
+        };
+
+        //await LoadOrderList();
+    }
+
+    public async Task DeleteOrder(long id)
+    {
+        var response = await _orderHttpService.DeleteOrder(id);
+
+        if(!response.success)
+        {
+            Console.WriteLine("Failed!");
+            await js.InvokeVoidAsync("alert", "Failed!");
+        }
+        else
+        {
+            await LoadOrderList();
+            await js.InvokeVoidAsync("alert", "Successfully Deleted!");
+        }
+    }
+
+    public async Task LoadOrderList()
+    {
+        orders = null;
+
+        var response = await _orderHttpService.GetOrders();
+
+        if(response.success)
+        {
+            orders = response.payload;
+        }
+        else
+        {
+            await js.InvokeVoidAsync("alert", "Failed!");
+        }
+    }
+}
