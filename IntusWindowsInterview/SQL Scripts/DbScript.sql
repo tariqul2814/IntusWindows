@@ -24,6 +24,6 @@ BEGIN
     on O_D.Id = W_D.OrderId
     inner join SubElements S_E
     on W_D.Id = S_E.WindowId
-    where O_D.Id = Id or @Id is null
+    where O_D.Id = @Id or @Id is null
 END
 GO

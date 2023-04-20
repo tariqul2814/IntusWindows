@@ -1,83 +1,83 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\obj\\Debug\\net6.0\\build-gz\\R+9+Pa9A.gz",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\obj\\Debug\\net6.0\\build-gz\\LL3094Xr.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\IntusWindowsInterview.Client.styles.css",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\IntusWindowsInterview.Client.styles.css",
       "PackagePath": "staticwebassets\\IntusWindowsInterview.Client.styles.css"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\appsettings.json",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\appsettings.json",
       "PackagePath": "staticwebassets\\appsettings.json"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\css\\app.css",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\README.md",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\README.md",
       "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\favicon.ico",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\icon-192.png",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\index.html",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\wwwroot\\sample-data\\weather.json",
+      "Id": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {

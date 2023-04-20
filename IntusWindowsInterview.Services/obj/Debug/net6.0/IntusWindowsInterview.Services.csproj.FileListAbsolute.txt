@@ -17,3 +17,22 @@ C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Servi
 C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Services\obj\Debug\net6.0\refint\IntusWindowsInterview.Services.dll
 C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Services\obj\Debug\net6.0\IntusWindowsInterview.Services.pdb
 C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Services\obj\Debug\net6.0\ref\IntusWindowsInterview.Services.dll
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\bin\Debug\net6.0\IntusWindowsInterview.Services.deps.json
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\bin\Debug\net6.0\IntusWindowsInterview.Services.dll
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\bin\Debug\net6.0\IntusWindowsInterview.Services.pdb
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\bin\Debug\net6.0\IntusWindowsInterview.Common.dll
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\bin\Debug\net6.0\IntusWindowsInterview.Model.dll
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\bin\Debug\net6.0\IntusWindowsInterview.Repository.dll
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\bin\Debug\net6.0\IntusWindowsInterview.Common.pdb
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\bin\Debug\net6.0\IntusWindowsInterview.Model.pdb
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\bin\Debug\net6.0\IntusWindowsInterview.Repository.pdb
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\obj\Debug\net6.0\IntusWindowsInterview.Services.csproj.AssemblyReference.cache
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\obj\Debug\net6.0\IntusWindowsInterview.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\obj\Debug\net6.0\IntusWindowsInterview.Services.AssemblyInfoInputs.cache
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\obj\Debug\net6.0\IntusWindowsInterview.Services.AssemblyInfo.cs
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\obj\Debug\net6.0\IntusWindowsInterview.Services.csproj.CoreCompileInputs.cache
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\obj\Debug\net6.0\IntusWindowsInterview.Services.csproj.CopyComplete
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\obj\Debug\net6.0\IntusWindowsInterview.Services.dll
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\obj\Debug\net6.0\refint\IntusWindowsInterview.Services.dll
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\obj\Debug\net6.0\IntusWindowsInterview.Services.pdb
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Services\obj\Debug\net6.0\ref\IntusWindowsInterview.Services.dll

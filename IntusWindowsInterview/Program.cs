@@ -15,8 +15,10 @@ string AllowOrigin = "AllowAllOrigin";
 builder.Services.AddControllers();
 builder.Services.AddRazorPages();
 
+var dbConnection = builder.Configuration.GetConnectionString("DefaultConnection");
+
 builder.Services.AddDbContext<ApplicationDbContext>(
-                    option => option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+                    option => option.UseSqlServer(dbConnection));
 //var mySettings = new GlobalConfiguration();
 //builder.Services.Configure<ConnectionStringConfig>(builder.Configuration.GetSection("ConnectionStrings"));
 

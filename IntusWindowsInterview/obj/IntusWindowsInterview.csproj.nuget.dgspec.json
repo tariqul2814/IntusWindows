@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview\\IntusWindowsInterview.csproj": {}
+    "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview\\IntusWindowsInterview.csproj": {}
   },
   "projects": {
-    "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\IntusWindowsInterview.Client.csproj": {
+    "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\IntusWindowsInterview.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\IntusWindowsInterview.Client.csproj",
+        "projectUniqueName": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\IntusWindowsInterview.Client.csproj",
         "projectName": "IntusWindowsInterview.Client",
-        "projectPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\IntusWindowsInterview.Client.csproj",
-        "packagesPath": "C:\\Users\\U1121980\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\obj\\",
+        "projectPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\IntusWindowsInterview.Client.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\U1121980\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -76,7 +77,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.15, 6.0.15]"
+              "version": "[6.0.16, 6.0.16]"
             }
           ],
           "frameworkReferences": {
@@ -84,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -93,20 +94,20 @@
         }
       }
     },
-    "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj": {
+    "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj",
+        "projectUniqueName": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj",
         "projectName": "IntusWindowsInterview.Common",
-        "projectPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj",
-        "packagesPath": "C:\\Users\\U1121980\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Common\\obj\\",
+        "projectPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\U1121980\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -115,6 +116,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -182,24 +184,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj": {
+    "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj",
+        "projectUniqueName": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj",
         "projectName": "IntusWindowsInterview.Model",
-        "projectPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj",
-        "packagesPath": "C:\\Users\\U1121980\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Model\\obj\\",
+        "projectPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\U1121980\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -208,14 +210,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj": {
-                "projectPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj"
+              "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj": {
+                "projectPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj"
               }
             }
           }
@@ -232,35 +235,35 @@
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "NetCore.Jwt": {
               "target": "Package",
@@ -291,24 +294,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Repository\\IntusWindowsInterview.Repository.csproj": {
+    "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Repository\\IntusWindowsInterview.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Repository\\IntusWindowsInterview.Repository.csproj",
+        "projectUniqueName": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Repository\\IntusWindowsInterview.Repository.csproj",
         "projectName": "IntusWindowsInterview.Repository",
-        "projectPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Repository\\IntusWindowsInterview.Repository.csproj",
-        "packagesPath": "C:\\Users\\U1121980\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Repository\\obj\\",
+        "projectPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Repository\\IntusWindowsInterview.Repository.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\U1121980\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -317,14 +320,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj": {
-                "projectPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj"
+              "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj": {
+                "projectPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj"
               }
             }
           }
@@ -341,21 +345,21 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             }
           },
           "imports": [
@@ -374,24 +378,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Services\\IntusWindowsInterview.Services.csproj": {
+    "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Services\\IntusWindowsInterview.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Services\\IntusWindowsInterview.Services.csproj",
+        "projectUniqueName": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Services\\IntusWindowsInterview.Services.csproj",
         "projectName": "IntusWindowsInterview.Services",
-        "projectPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Services\\IntusWindowsInterview.Services.csproj",
-        "packagesPath": "C:\\Users\\U1121980\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Services\\obj\\",
+        "projectPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Services\\IntusWindowsInterview.Services.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\U1121980\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -400,20 +404,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj": {
-                "projectPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj"
+              "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj": {
+                "projectPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj"
               },
-              "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj": {
-                "projectPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj"
+              "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj": {
+                "projectPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj"
               },
-              "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Repository\\IntusWindowsInterview.Repository.csproj": {
-                "projectPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Repository\\IntusWindowsInterview.Repository.csproj"
+              "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Repository\\IntusWindowsInterview.Repository.csproj": {
+                "projectPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Repository\\IntusWindowsInterview.Repository.csproj"
               }
             }
           }
@@ -442,7 +447,7 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -477,24 +482,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview\\IntusWindowsInterview.csproj": {
+    "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview\\IntusWindowsInterview.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview\\IntusWindowsInterview.csproj",
+        "projectUniqueName": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview\\IntusWindowsInterview.csproj",
         "projectName": "IntusWindowsInterview",
-        "projectPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview\\IntusWindowsInterview.csproj",
-        "packagesPath": "C:\\Users\\U1121980\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview\\obj\\",
+        "projectPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview\\IntusWindowsInterview.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\U1121980\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -503,26 +508,27 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\IntusWindowsInterview.Client.csproj": {
-                "projectPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Client\\IntusWindowsInterview.Client.csproj"
+              "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\IntusWindowsInterview.Client.csproj": {
+                "projectPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Client\\IntusWindowsInterview.Client.csproj"
               },
-              "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj": {
-                "projectPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj"
+              "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj": {
+                "projectPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Common\\IntusWindowsInterview.Common.csproj"
               },
-              "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj": {
-                "projectPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj"
+              "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj": {
+                "projectPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Model\\IntusWindowsInterview.Model.csproj"
               },
-              "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Repository\\IntusWindowsInterview.Repository.csproj": {
-                "projectPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Repository\\IntusWindowsInterview.Repository.csproj"
+              "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Repository\\IntusWindowsInterview.Repository.csproj": {
+                "projectPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Repository\\IntusWindowsInterview.Repository.csproj"
               },
-              "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Services\\IntusWindowsInterview.Services.csproj": {
-                "projectPath": "C:\\Users\\U1121980\\source\\repos\\IntusWindowsInterview\\IntusWindowsInterview.Services\\IntusWindowsInterview.Services.csproj"
+              "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Services\\IntusWindowsInterview.Services.csproj": {
+                "projectPath": "D:\\Tariqul (Don't Touch)\\IntusWindows\\IntusWindowsInterview.Services\\IntusWindowsInterview.Services.csproj"
               }
             }
           }
@@ -555,19 +561,19 @@
             },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
@@ -587,23 +593,23 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -641,7 +647,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -15,3 +15,20 @@ C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model
 C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.pdb
 C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.genruntimeconfig.cache
 C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Model\obj\Debug\net6.0\ref\IntusWindowsInterview.Model.dll
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\bin\Debug\net6.0\IntusWindowsInterview.Model.deps.json
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\bin\Debug\net6.0\IntusWindowsInterview.Model.runtimeconfig.json
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\bin\Debug\net6.0\IntusWindowsInterview.Model.dll
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\bin\Debug\net6.0\IntusWindowsInterview.Model.pdb
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\bin\Debug\net6.0\IntusWindowsInterview.Common.dll
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\bin\Debug\net6.0\IntusWindowsInterview.Common.pdb
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.csproj.AssemblyReference.cache
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.AssemblyInfoInputs.cache
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.AssemblyInfo.cs
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.csproj.CoreCompileInputs.cache
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.csproj.CopyComplete
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.dll
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\obj\Debug\net6.0\refint\IntusWindowsInterview.Model.dll
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.pdb
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\obj\Debug\net6.0\IntusWindowsInterview.Model.genruntimeconfig.cache
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Model\obj\Debug\net6.0\ref\IntusWindowsInterview.Model.dll

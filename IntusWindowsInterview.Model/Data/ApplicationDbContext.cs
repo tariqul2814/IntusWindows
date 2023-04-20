@@ -1,4 +1,5 @@
-﻿using IntusWindowsInterview.Model.DBModel;
+﻿using IntusWindowsInterview.Common.Configuration;
+using IntusWindowsInterview.Model.DBModel;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -11,13 +12,16 @@ namespace IntusWindowsInterview.Model.Data
     public class ApplicationDbContext : DbContext
     {
         public ApplicationDbContext()
-        { }
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
-        { }
+        {
+            
+        }
+        public ApplicationDbContext(DbContextOptions options) : base(options)
+        {}
 
         public DbSet<Order> Orders { get; set; }
         public DbSet<Window> Windows { get; set; }
         public DbSet<SubElement> SubElements { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Order>(x =>

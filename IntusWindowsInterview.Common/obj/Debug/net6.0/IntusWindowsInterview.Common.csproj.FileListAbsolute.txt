@@ -10,3 +10,15 @@ C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Commo
 C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Common\obj\Debug\net6.0\refint\IntusWindowsInterview.Common.dll
 C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Common\obj\Debug\net6.0\IntusWindowsInterview.Common.pdb
 C:\Users\U1121980\source\repos\IntusWindowsInterview\IntusWindowsInterview.Common\obj\Debug\net6.0\ref\IntusWindowsInterview.Common.dll
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Common\bin\Debug\net6.0\IntusWindowsInterview.Common.deps.json
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Common\bin\Debug\net6.0\IntusWindowsInterview.Common.dll
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Common\bin\Debug\net6.0\IntusWindowsInterview.Common.pdb
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Common\obj\Debug\net6.0\IntusWindowsInterview.Common.csproj.AssemblyReference.cache
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Common\obj\Debug\net6.0\IntusWindowsInterview.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Common\obj\Debug\net6.0\IntusWindowsInterview.Common.AssemblyInfoInputs.cache
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Common\obj\Debug\net6.0\IntusWindowsInterview.Common.AssemblyInfo.cs
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Common\obj\Debug\net6.0\IntusWindowsInterview.Common.csproj.CoreCompileInputs.cache
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Common\obj\Debug\net6.0\IntusWindowsInterview.Common.dll
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Common\obj\Debug\net6.0\refint\IntusWindowsInterview.Common.dll
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Common\obj\Debug\net6.0\IntusWindowsInterview.Common.pdb
+D:\Tariqul (Don't Touch)\IntusWindows\IntusWindowsInterview.Common\obj\Debug\net6.0\ref\IntusWindowsInterview.Common.dll
