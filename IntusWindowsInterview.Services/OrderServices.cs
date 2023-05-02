@@ -335,6 +335,20 @@ namespace IntusWindowsInterview.Services
                 };
             }
         }
+
+        public async Task<int> OrderNumberOfSubElements()
+        {
+            var response = await GetOrders();
+
+            var orders = response.data;
+
+            var uniqueSubElements = orders
+                                    .SelectMany(order => order.WindowsViewModels.SelectMany(window => window.SubElementsViewModel))
+                                    .GroupBy(subElement => subElement.Id)
+                                    .Select(group => group.First())
+                                    .ToList();
+            return uniqueSubElements.Count;
+        }
     }
 
     public interface IOrderServices
@@ -344,5 +358,7 @@ namespace IntusWindowsInterview.Services
         Task<ServiceResponse<OrderViewModel>> CreateOrder(OrderViewModel order);
         Task<ServiceResponse<OrderViewModel>> UpdateOrder(long Id, OrderViewModel order);
         Task<ServiceResponse<OrderViewModel>> DeleteOrder(long Id);
+
+        Task<int> OrderNumberOfSubElements();
     }
 }
